@@ -393,13 +393,3 @@
 // devidedFifi(30);
 // devidedFifi(180);
 
-// 40-masala
-
-// function uzunlik(a) {
-//   let number = a.split("");
-//   console.log(number);
-// }
-
-// uzunlik("farhod");
-// DOMLA OZI BIZ BU MAVZUNI O'TMAGANMIZ SHUNAQA HOLATTA CHIQARIB QO'YDIM :).
-
