@@ -78,7 +78,7 @@
 
 // 14-masala
 // let quater = function (a) {
-//   console.log(a ** 2);
+//   console.log(a * a);
 // };
 // quater(5);
 
